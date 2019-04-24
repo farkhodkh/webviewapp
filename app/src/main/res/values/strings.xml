@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarPort</string>
+    <string name="cancel">Отмена</string>
+    <string name="permission_header">Запрос доступа</string>
+    <string name="permission_text">Для полноценной работы необходимы следующие разрешения</string>
+    <string name="file_chooser_error">Ошибка выбора файла</string>
+</resources>
